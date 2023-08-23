@@ -50,7 +50,6 @@ nav ul li a:hover{
 .search input{
     width: 493px;
     height: 23px;
-    border-radius: 20px;
 }
 .contain{
     min-height: calc(100vh - 68px - 8vh);
