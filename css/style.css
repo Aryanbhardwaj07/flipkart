@@ -46,12 +46,21 @@ nav ul li a:hover{
 .search{
     display: flex;
     align-items: center;
+    
 }
 .search input{
     width: 493px;
     height: 23px;
+    border-radius: 4px;
+    margin: 0px 25px;
+    padding: 0px 12px;
 }
-.contain{
+.slider{
+    width: 80vw;
+    margin: 45px auto;
+    
+}
+.contain {
     min-height: calc(100vh - 68px - 8vh);
 }
 footer {
