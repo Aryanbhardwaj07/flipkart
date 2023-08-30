@@ -12,3 +12,12 @@
     border-radius: 6px;
     cursor: pointer;
 }
+.my-1{
+    margin: 8px;
+}
+.my-2{
+    margin: 10px 0;
+}
+.text-center{
+    text-align: center;
+}
